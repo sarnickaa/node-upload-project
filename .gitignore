@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/macos,linux
-
+.env
 ### macOS ###
 *.DS_Store
 .AppleDouble
